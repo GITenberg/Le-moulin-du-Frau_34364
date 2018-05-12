@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36976
     wikipedia: http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Le_Roy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34364#Le-moulin-du-Frau
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-11-18'
 gutenberg_type: Text
